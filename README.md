@@ -1,1 +1,1 @@
-To be written
+Web server, MySQL server need to be setup
